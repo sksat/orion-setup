@@ -1,0 +1,6 @@
+passwd:
+  users:
+    - name: core
+      password_hash: "$1$Khj11K76$jNXuhJDpJ4yZ5ulIrvyAM0"
+      ssh_authorized_keys:
+        - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG/WuEg2cUNrOgo1/Y4Txvlp56ZbLO33TRNZYWm0kEVy

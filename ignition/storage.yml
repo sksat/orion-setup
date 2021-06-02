@@ -1,0 +1,8 @@
+storage:
+  filesystems:
+    - name: fs1
+      mount:
+        device: /dev/disk/by-partlabel/ROOT
+        format: btrfs
+        wipe_filesystem: true
+        label: ROOT
